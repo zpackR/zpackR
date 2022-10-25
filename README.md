@@ -1,6 +1,6 @@
 ### Hi, I am Halerson 👋
-- Learning programming and hacking (Student)
-- Artist 3D
+- 😎😶💻 Learning programming and hacking (Student)
+- 😀💡 Artist 3D
 
 <div align="center">
   <a href="https://github.com/zpackR">
