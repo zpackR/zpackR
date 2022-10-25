@@ -1,5 +1,5 @@
 ### Hi, I am Halerson 👋
-- 😎😶💻 Learning programming and hacking (Student)
+- 😎😶💻 Learning programming and hacking (student)
 - 😀💡 Artist 3D
 
 <div align="center">
